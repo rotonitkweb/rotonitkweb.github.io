@@ -12,6 +12,9 @@ portfolio:
     text: "What we do to make a difference in this world"
     section: portfolio
 
+gallery:
+    title: Gallery
+
 team:
     title: "ROTARACT CORE 2021"
     text: "Feel free to reach out to them individually!"
