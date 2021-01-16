@@ -14,8 +14,8 @@ nav:
   - title: "Team"
     section: team
 
-  - title: "Contact"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+#   - title: "Contact"
+#     url: https://github.com/raviriley/agency-jekyll-theme/
   
   # - title: "Services"
   #   section: services
