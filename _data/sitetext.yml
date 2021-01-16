@@ -1,120 +1,283 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
-
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    
-
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+    title: Welcome!
+    text: Rotaract Club NITK Chapter
 
 about:
     title: "About Us"
-    text: "our story"
     section: about
+    subtext: "The Rotaract Club NITK is one of the exclusive clubs of our institution but at the same time the only non-technical club by nature. The club is a subsidiary of Rotary International and runs by the same governing principles and vision as Rotary. The club has been an active part of the college with its events being some of the most attended and sought after. Rotaract Club has imbibed into itself a nature of caring for the world and the people around and that is an image that we intend to carry on for all times forth.  The Rotaract Club of NITK is a club which seeks to make this world a better place, the vision being to transform the world and people around us by caring for those who don’t have as much as we do and by raising awareness about issues that people should know about. The Rotaract Club seeks to look out for those for whom there is no one to look out for, to lend a helping hand to those whom no one otherwise would even turn back and look at. The Rotaract Club aims to nurture a spirit of sharing and caring amongst people by exposing them to and giving them opportunities to help out and in some small way impact the life of underprivileged people. The main driving force behind the initiatives, actions and events of the club is to contribute to a greater cause and be the cause for a difference in the world and as the Rotaract Moto says: “Be the change” and that is precisely what we envision ourselves to be."
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
+portfolio:
+    title: "Events & Projects"
+    text: "What we do to make a difference in this world"
+    section: portfolio
+
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "ROTARACT CORE 2021"
+    text: "Feel free to reach out to them individually!"
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Rtr.Joel Chacko"
+        image: assets/img/team/1.png
+        role: "Director Club services"
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://gmail.com
+            icon: fab fa-google
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Rtr. Vineetha Sunny"
+        image: assets/img/team/2.png
+        role: "President"
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://gmail.com
+            icon: fab fa-google
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
+      - name: "Rtr. Annlin Chacko"
+        image: assets/img/team/3.png
+        role: "Secretary"
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://gmail.com
+            icon: fab fa-google
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Rtr. Sharon Tony"
+        image: assets/img/team/4.png
+        role: "Joint Convenor"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Derek Joel"
+        image: assets/img/team/5.png
+        role: "Vice President"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Sathwik Kanneganti"
+        image: assets/img/team/6.png
+        role: "Joint Secretary"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Tejas Chenoth"
+        image: assets/img/team/7.png
+        role: "Sergeant at Arms"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Anamika Karthy"
+        image: assets/img/team/8.jpg
+        role: "Director Vocational Services"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Chaitra Satheesh"
+        image: assets/img/team/9.png
+        role: "Director Community Services"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Ananthu M Nair"
+        image: assets/img/team/10.png
+        role: "Chairman Public Relations"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Sudarshan Sundar"
+        image: assets/img/team/11.png
+        role: "Chairman Alumni"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Nihal Haneef"
+        image: assets/img/team/12.png
+        role: "Chairman Technical"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Gayatri Sajeev"
+        image: assets/img/team/13.png
+        role: "Director International Affairs"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Vineetha Wilson"
+        image: assets/img/team/14.png
+        role: "Chairwoman Cultural"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Rtr. Liz George"
+        image: assets/img/team/15.png
+        role: "Treasurer"
+        social:
+          - url: https://gmail.com
+            icon: fab fa-google
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+# services:
+#     title: "Services"
+#     text: "Lorem ipsum"
+#     section: services
+#     list:
+#       - title: "E-Commerce"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#       - title: "Responsive Design"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-laptop       
+#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#         desc: "Your description here, full **Markdown** support"
+#         icon: fab fa-markdown
+
+# portfolio:
+#     title: "Portfolio"
+#     text: "Lorem ipsum dolor sit amet consectetur."
+#     section: portfolio
+    
+# timeline:
+#     title: "About" 
+#     text: "Lorem ipsum timeline"
+#     section: timeline
+#     events:
+#       - title: "Our Humble Beginnings"
+#         year: "2009-2011"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#         image: assets/img/timeline/1.jpg
+#         alt: 
+#         align: left
+#       - title: "An Agency is Born"
+#         year: "March 2011"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#         image: assets/img/timeline/2.jpg
+#         alt: 
+#         align: right
+#       - title: "Jekyll Theme is created"
+#         year: "2019"
+#         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+#         image: assets/img/timeline/3.jpg
+#         alt: image alt text
+#         #align: #default is left       
+#       - title: "Title"
+#         year: "2009-2011"
+#         desc: "Your description here, **Markdown** is fully supported."
+#         image: assets/img/timeline/4.jpg
+#         alt: 
+#         align: right
+#     end: "Be Part <br> of Our <br> Story!"
+
+# about:
+#     title: "About Us"
+#     text: "our story"
+#     section: about
+
+# clients:
+#     section: clients
+#     max-height: 100px
+#     horizontal-scrolling: "" #"yes/no"
+#     list:
+#       - title: "envato"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/envato.jpg
+#       - title: "designmodo"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/designmodo.jpg
+#       - title: "themeforest"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/themeforest.jpg
+#       - title: "Creative Market"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/creative-market.jpg
+    
+# team:
+#     title: "OUR AMAZING TEAM"
+#     text: "Lorem ipsum dolor sit amet consectetur."
+#     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#     section: team
+#     people:
+#       - name: "Kay Garland"
+#         role: "Lead Designer"
+#         image: assets/img/team/1.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Larry Parker"
+#         role: "Lead Marketer"
+#         image: assets/img/team/2.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Diana Perterson"
+#         role: "Lead Developer"
+#         image: assets/img/team/3.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
@@ -124,15 +287,15 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
+      - url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
+        icon: "fab fa-youtube"
       - url: https://twitter.com
         icon: "fab fa-twitter"  
-      - url: https://facebook.com
+      - url: https://www.facebook.com/RotaractClubNITK/
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/rotaract_nitk/
         icon: "fab fa-instagram"
 
 
