@@ -6,14 +6,13 @@ title: Rotaract Club NITK Chapter
 email: rotonitk@gmail.com
 description: Official website for the Rotaract Club NITK Chapter.
 
-
 # Team names, titles and social links
 people:
 - name: Rtr.Joel Chacko 
   pic: 1.png
   position: Director Club services
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -24,7 +23,7 @@ people:
   pic: 2.png
   position: President
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -35,7 +34,7 @@ people:
   pic: 3.png
   position: Secretary
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -46,7 +45,7 @@ people:
   pic: 4.png
   position: Joint Convenor
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -57,7 +56,7 @@ people:
   pic: 5.png
   position: Vice President
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -68,7 +67,7 @@ people:
   pic: 6.png
   position: Joint Secretary
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -79,7 +78,7 @@ people:
   pic: 7.png
   position: Sergeant at Arms
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -90,7 +89,7 @@ people:
   pic: 8.jpg
   position: Director Vocational Services
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -101,7 +100,7 @@ people:
   pic: 9.png
   position: Director Community Services
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -112,7 +111,7 @@ people:
   pic: 10.png
   position: Chairman Public Relations
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -123,7 +122,7 @@ people:
   pic: 11.png
   position: Chairman Alumni 
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -134,7 +133,7 @@ people:
   pic: 12.png
   position: Chairman Technical
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -145,7 +144,7 @@ people:
   pic: 13.png
   position: Director International Affairs
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -156,7 +155,7 @@ people:
   pic: 14.png
   position: Chairwoman Cultural 
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
@@ -167,14 +166,14 @@ people:
   pic: 15.png
   position: Treasurer
   social:
-    - title: google-plus
+    - title: google
       url: #
     - title: facebook
       url: #
     - title: linkedin
       url: #
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
     url: https://www.facebook.com/RotaractClubNITK/
