@@ -173,16 +173,21 @@ people:
     - title: linkedin
       url: #
 
-# Social networks usernames (many more available: google, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+legal: "Privacy Policy"
 social:
-  - title: facebook
-    url: https://www.facebook.com/RotaractClubNITK/
-  - title: instagram
-    url: https://www.instagram.com/rotaract_nitk/
-  - title: youtube
-    url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
-  - title: linkedin
-    url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
+  - url: https://twitter.com
+    icon: "fab fa-twitter"  
+  - url: https://www.facebook.com/RotaractClubNITK/
+    icon: "fab fa-facebook-f"
+  - url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
+    icon: "fab fa-linkedin-in"
+  - url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
+    icon: "fab fa-youtube"
+  - url: https://www.instagram.com/rotaract_nitk/
+    icon: "fab fa-instagram"
+
+analytics:
+  google:
 
 # Postal address (add as many lines as necessary)
 address:
