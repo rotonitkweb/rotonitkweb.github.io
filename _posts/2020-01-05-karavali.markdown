@@ -11,8 +11,7 @@ Rotaract Club NITK Chapter was proud to proud to be a part of the first student 
 frequency: Annual
 thumbnail: startup-framework-thumbnail.png
 img: 
-alt: No Image
-date: 5th Jan
+date: 5th jan
 link: https://karavalimarathon.nitk.ac.in/
 sections:
 ---

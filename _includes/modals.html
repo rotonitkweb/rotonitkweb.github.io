@@ -15,7 +15,9 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <p>{{ post.description }}</p>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.img %}
+                                <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered">
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 <li>Date:
                                     <strong>{{ post.date }}</strong>
