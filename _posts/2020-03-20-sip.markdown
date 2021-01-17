@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 title: Social Initiative Projects (SIPs)
 subtitle: TEST SUBTITLE
 description: Set of projects that we try to do every month to shed some light on prevailing social matters world wide. We carry out social media awarness campaigns, live sessions, donation drives and much more. Check out various topics that we have covered uptil now!
