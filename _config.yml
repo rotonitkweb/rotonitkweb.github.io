@@ -175,16 +175,14 @@ people:
 
 legal: "Privacy Policy"
 social:
-  - url: https://twitter.com
-    icon: "fab fa-twitter"  
   - url: https://www.facebook.com/RotaractClubNITK/
-    icon: "fab fa-facebook-f"
+    icon: "fa fa-facebook-f"
   - url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
-    icon: "fab fa-linkedin-in"
+    icon: "fa fa-linkedin-in"
   - url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
-    icon: "fab fa-youtube"
+    icon: "fa fa-youtube"
   - url: https://www.instagram.com/rotaract_nitk/
-    icon: "fab fa-instagram"
+    icon: "fa fa-instagram"
 
 analytics:
   google:
