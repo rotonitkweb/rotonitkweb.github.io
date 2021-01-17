@@ -15,25 +15,33 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <p>{{ post.description }}</p>
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <ul class="list-inline item-details">
+                                <li>Date:
+                                    <strong>{{ post.date }}</strong>
+                                </li>
+                                <li>Link:
+                                    <strong><a href="{{ post.link }}">{{ post.title }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
                             {% for section in post.sections %}
                                 <h3>{{ section.title }}</h3>
                                 <p>{{ section.description }}</p>
                                 <img src="img/portfolio/{{ section.img }}" class="img-responsive img-centered" alt="{{ section.alt }}">
                                 <ul class="list-inline item-details">
                                     <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ section.date }}</a>
-                                        </strong>
+                                        <strong>{{ section.date }}</strong>
                                     </li>
                                     <li>Link:
-                                        <strong><a href="http://startbootstrap.com">{{ section.link }}</a>
+                                        <strong><a href="{{ section.link }}">{{ section.title }}</a>
                                         </strong>
                                     </li>
                                 </ul>
                             {% endfor %}
                             <ul class="list-inline item-details">
                                 <li>Frequency:
-                                    <strong><a href="http://startbootstrap.com">{{ post.frequency }}</a>
-                                    </strong>
+                                    <strong>{{ post.frequency }}</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
