@@ -4,7 +4,7 @@
       <div class="col-md-4">
         <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-8">
         <ul class="list-inline social-buttons">
           {% for link in site.social  %}
             <li class="list-inline-item">
@@ -17,14 +17,14 @@
           {% endfor %}
         </ul>
       </div>
-      <div class="col-md-4">
+      <!-- <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
-            <!-- TODO : fix legal page -->
+            TODO : fix legal page
             <a href="#">{{ site.legal | default: "Privacy Policy" }}</a>
           </li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </div>
 </footer>
