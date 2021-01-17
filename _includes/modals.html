@@ -19,13 +19,17 @@
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered">
                             {% endif %}
                             <ul class="list-inline item-details">
+                                {% if post.eventdate %}
                                 <li>Date:
-                                    <strong>{{ post.date }}</strong>
+                                    <strong>{{ post.eventdate }}</strong>
                                 </li>
+                                {% endif %}
+                                {% if post.link %}
                                 <li>Link:
                                     <strong><a href="{{ post.link }}">{{ post.title }}</a>
                                     </strong>
                                 </li>
+                                {% endif %}
                             </ul>
                             {% for section in post.sections %}
                                 <h3>{{ section.title }}</h3>
