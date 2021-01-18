@@ -34,15 +34,21 @@
                             {% for section in post.sections %}
                                 <h3>{{ section.title }}</h3>
                                 <p>{{ section.description }}</p>
+                                {% if section.img %}
                                 <img src="img/portfolio/{{ section.img }}" class="img-responsive img-centered" alt="{{ section.alt }}">
+                                {% endif %}
                                 <ul class="list-inline item-details">
+                                    {% if section.date %}
                                     <li>Date:
                                         <strong>{{ section.date }}</strong>
                                     </li>
+                                    {% endif %}
+                                    {% if section.link %}
                                     <li>Link:
                                         <strong><a href="{{ section.link }}">{{ section.title }}</a>
                                         </strong>
                                     </li>
+                                    {% endif %}
                                 </ul>
                             {% endfor %}
                             <ul class="list-inline item-details">
