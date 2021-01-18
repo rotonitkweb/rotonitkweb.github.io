@@ -29,10 +29,10 @@
                                     <strong><a href="{{ post.link }}">{{ post.title }}</a>
                                     </strong>
                                 </li>
+                                {% endif %}
                                 <li>Frequency:
                                     <strong>{{ post.frequency }}</strong>
                                 </li>
-                                {% endif %}
                             </ul>
                             {% for section in post.sections %}
                                 <h3>{{ section.title }}</h3>
