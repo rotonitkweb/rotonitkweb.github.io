@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+title: NITK MUN
+subtitle: Your Voice Matters
+description: "Spread across a span of two days, the mega event saw some fierce discussions and debates taking place, in the Harvard MUN format. Model United Nations, also known as Model UN or MUN, is an educational simulation in which students learn about diplomacy, international relations, and the United Nations. MUN involves and teaches participants speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities."
+frequency: Annually
+thumbnail: startup-framework-thumbnail.png
+img: nitkmun-image.PNG
+eventdate: 12th February
+link: 
+sections:
+---
