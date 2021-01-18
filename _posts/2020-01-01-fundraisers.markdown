@@ -36,7 +36,7 @@ sections:
   link:
 - title: Orphanage Collection
   description: "Money is collected annualy from various donation points and given to the orphanage being visited by the club that year."
-  img: 
+  img: fund-image5.PNG
   alt: No image
   date: Depends on conditions
   link:
