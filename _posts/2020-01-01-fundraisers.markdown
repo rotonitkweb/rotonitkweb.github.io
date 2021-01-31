@@ -5,7 +5,7 @@ title: Fundraisers
 subtitle: Emergency Collection
 description: "We have carried out a lot of fundraisers in our club to help out varioous organisations and even staes and instituitions during times of need."
 frequency: Frequently
-thumbnail: Thumbnails/fundraiser.png
+thumbnail: Thumbnails/fundraiser_thumb.png
 img:
 eventdate:
 link:
