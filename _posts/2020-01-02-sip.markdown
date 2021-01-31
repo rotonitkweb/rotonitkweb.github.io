@@ -5,7 +5,7 @@ title: Social Initiative Projects (SIPs)
 subtitle: Making a Change
 description: "Social Initiative Project (or SIP) is an initiative taken up by the club to highlight societal concerns and spread awareness about them through a series of events and online posts. This is a collaborative effort of all the members of the club which includes research, content creation, publicity and marketing among others. We frequently tie-up with other like-minded people and organisations to maximize our outreach. The SIPs are where we collectively work towards a common goal whilst strengthening our inter-personal skills."
 frequency: Monthly
-thumbnail: startup-framework-thumbnail.png
+thumbnail: Thumbnails/sip_thumb.png
 img: 
 eventdate:
 link: 

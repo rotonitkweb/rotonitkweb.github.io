@@ -5,7 +5,7 @@ title: RoTalks
 subtitle: Speech is Important
 description: "A series of knowledge exchange programs held over the course of the semester open currently only for the members of the club. The talk series touches upon mainly social issues that we are not particularly aware of and attempts to spread awareness among the club members on issues which are important to the society. Initially, the talks series were all conducted in the Virtual Classroom in the CCC and were all recorded with the help of Taskforce NITK. Over the course of the pandemic, it has become our platform for a video content awareness project where the RoTalks team put together video content from speakers and guests."
 frequency: Every 1-2 months
-thumbnail: startup-framework-thumbnail.png
+thumbnail: Thumbnails/rotalks_thumb.png
 img: 
 eventdate: 
 link: https://youtube.com/playlist?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
